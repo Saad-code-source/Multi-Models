@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.mplconfig/
+*.py[cod]
+outputs/
+outputs_*/
+*.joblib
+.DS_Store
+Thumbs.db
